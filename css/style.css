@@ -1,0 +1,63 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+p {
+  line-height: 2rem;
+}
+
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+    .parallax-container .middle-banner {
+    background:url("http://images.fineartamerica.com/images/artworkimages/medium/1/giant-panda-in-black-and-white-chris-smith.jpg") no-repeat center center fixed;
+    background-size: cover;
+    min-height: 380px;
+    height: 100%;
+    width: 100%;
+    }
+
+
+    .parallax-container .bottom-banner {
+    background:url("http://images5.alphacoders.com/390/390782.jpg") no-repeat center center fixed;
+    background-size: cover;
+    min-height: 380px;
+    height: 100%;
+    width: 100%;
+  }
+
+  #index-banner {
+    background: url("http://miriadna.com/desctopwalls/images/max/Pandas.jpg") no-repeat center center fixed;
+    background-size: cover;
+    min-height: 380px;
+    height: 100%;
+    width: 100%;
+    }
+
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
