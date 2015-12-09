@@ -1,0 +1,52 @@
+<!DOCTYPEhtml>
+<html>  
+	<head>
+		
+        <link rel="stylesheet" href="stylesheets/dateideas.css" type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Megrim' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link rel='stylesheet'type='text/css'href="stylesheets/pandaThing.css">
+        <title> Date Ideas </title>  
+ 	</head>
+<body>
+    <div class="container">
+            <div class="header">
+                <h1> Bamboo Buddies </h1>
+                <ul id="nav-bar">
+                    <li><a href="./home.html">Home</a></li>
+                    <li><a href="./meetthepandas.html">Meet the Pandas</a></li>
+                    <li><a href="./dateideas.html">Date Ideas</a></li>
+                    <li><a href="./merchandise.html">Merchandise</a></li>
+                </ul>
+            </div>
+            <div class="content">
+	<div class="container">
+		<h1>Date Ideas</h1>
+			<h3>You've found your dream Bamboo Buddy, but what now? Find some inspiration here for your date!</h3>
+	</div>
+	<div class="ideas">
+		<div class="container">
+   			<h4>Date 1: The Classic</h4>
+    			<p>You eat for sixteen hours a day, so a classic date for you and your new panda friend to enjoy is a special meal! Dine on the finest leaves, stems and shoots and show your date you're a true bamboo connoisseur. The Classic date is great for Bamboo Buddies looking to meet someone special. </p>
+    		<div class="classic">
+    		<img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/5/19/1432045737633/d2fa28d4-5afa-497f-b792-be6f22cd765e-2060x1236.jpeg?w=620&q=85&auto=format&sharp=10&s=997c15080a867d8bf4d9fcb263636079" class="center"/>
+    	</div>
+		<div class="container">
+    		<h4>Date 2: The Active</h4>
+    			<p>You've both been sitting around all day, so how about some time 	to stretch your legs? Visit a new patch of forest and go climbing for a more active date. Race to the top and show your competitive streak! The Active date is great for Bamboo Buddies looking to get active this mating season. </p>
+    		<div class="active">
+    		<img src ="http://media.npr.org/programs/atc/features/2008/may/chengdu_panda/climbing540-85d1d63bb9224f3c926e188fbc19a4a09e4947ec.jpg" class="center"/>
+    	</div>
+		<div class="container">
+    		<h4>Date 3: The Romantic</h4>
+    			<p>If you're a quiet kind of panda, maybe you want to keep things low-key while you get to know each other. How about taking your new panda friend on a walk through your favourite spots in the forest? Show them your thinking spot, where you like to eat, or just somewhere scenic! The Romantic date is great for Bamboo Buddies looking for something meaningful. </p>
+    		<div class ="romantic">
+    		<img src = "https://curiouscatontherun.files.wordpress.com/2013/08/pandamonium-6.jpg" class="center"/>
+    		</div>
+   	 	</div>
+    </div>
+</div>
+</div>
+</body>
+</html>
