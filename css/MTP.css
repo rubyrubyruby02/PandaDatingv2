@@ -6,13 +6,13 @@ body {
 	h1 {
 		color: #26A65B;
 		font-size: 40pt;
-		font-family: 'Open Sans', sans-serif;
+		font-family: 'Megrim', cursive;
 		text-align: center;
 	}
 	.intro {
 		color: black;
 		font-size: 13pt;
-		font-family: 'Gentium Basic', serif;
+		font-family: 'Lora', serif;
 		text-align: center;
 		padding: 5px 150px 30px 150px;
 	}
@@ -28,14 +28,14 @@ body {
 	h2 {
 		color: #7ad744;
 		font-size: 16pt;
-		font-family: 'Open Sans', sans-serif;
+		font-family: 'Lora', serif;
 		text-align: center;
 		padding: 10px 70px 0px 70px;
 	}
 	.desc {
 		color: black;
 		font-size: 17px;
-		font-family: 'Gentium Basic', serif;
+		font-family: 'Lora', serif;
 		text-align: center;
 		padding: 0px 400px 0px 400px;
 	}
