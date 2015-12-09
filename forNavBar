@@ -1,0 +1,19 @@
+/*PUT THIS BIT IN THE HEADER*/
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<link rel='stylesheet'type='text/css'href="./pandaThing.css">
+
+/*PUT THIS BIT AROUND YOUR CONTENT*/
+<div class="container">
+			<div class="header">
+				<h1> Bamboo Buddies </h1>
+				<ul id="nav-bar">
+					<li><a href="./home.html">Home</a></li>
+					<li><a href="./meetthepandas.html">Meet the Pandas</a></li>
+					<li><a href="./dateideas.html">Date Ideas</a></li>
+					<li><a href="./merchandise.html">Merchandise</a></li>
+				</ul>
+			</div>
+			<div class="content">
+/*CONTENT GOES HERE*/
+			</div>
+		</div>
