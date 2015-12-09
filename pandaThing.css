@@ -1,4 +1,46 @@
-.header {
+body {
+		background: url(https://40.media.tumblr.com/c53a0a3b4d9d99cc7b7b1116f2b14e14/tumblr_nz0n4xbNkc1ufg99no1_400.png);
+		background-repeat: no-repeat;
+		background-position: left bottom;
+	}
+	h1 {
+		color: #26A65B;
+		font-size: 40pt;
+		font-family: 'Megrim', cursive;
+		text-align: center;
+	}
+	.intro {
+		color: black;
+		font-size: 13pt;
+		font-family: 'Lora', serif;
+		text-align: center;
+		padding: 5px 150px 30px 150px;
+	}
+	img.center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		height: 300px;
+		width: 300px;
+		border-radius: 150px;
+		box-shadow: 12px 12px 29px #555;
+	}
+	h2 {
+		color: black;
+		font-size: 16pt;
+		font-family: 'Lora', serif;
+		text-align: center;
+		font-weight: bold;
+		padding: 10px 70px 0px 70px;
+	}
+	.desc {
+		color: black;
+		font-size: 16px;
+		font-family: 'Lora', serif;
+		text-align: center;
+		padding: 0px 400px 0px 400px;
+	}
+	.header {
     margin: 0;
     padding: 50;
     overflow: hidden;
@@ -26,54 +68,13 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-
-
-/* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #111;
     color: #fff;
 }
-
-
-
-#social-buttons
-button{
-	color: white;}
-	
-.btn-twitter{
-	background-color: #00acee;
-	border-color: #009ad5}
-
-.btn-facebook{
-	background-color: #4868ac;
-	border-color: #314776 }
-
-.btn-pinterest{
-	background-color: #b62f26;
-	border-color: #b62f26 }
-
-
-.middlepicture{
-    font-family: 'Megrim', cursive;
-}
-
-
-#mission{
-	background-color: rgba(32,35,41,.0.9);
-	font color: #ddd;
-	padding-bottom: 40px;
-}
-
 .navbar-inverse {
   background-color: rgba(32, 35, 41,0.8);
   padding-top: 20px;
-}
-
-.form-inline input[name='email'] {
-	  width: 80%; }
-.container{
-    max-width: 700px;
-
 }
 .header{
     font-family: 'Megrim', cursive;
@@ -81,13 +82,3 @@ button{
     font-weight: 900;
 }
 
-.content{
-    max-width: 500px;
-}
-
-.pandaimage1{
-    text-align: center;
-    width: cover;
-    height:500px;
-    background-image: url(http://www.cutepandapictures.com/wp-content/uploads/2013/09/cutepandapicturefamily.jpg);
-}
