@@ -1,0 +1,39 @@
+.container h1 {
+	color: #26A65B;
+		font-size: 40pt;
+		font-family: 'Megrim', cursive;
+		text-align: center;
+}
+.container h3 {
+	color: black;
+		font-size: 13pt;
+		font-family: 'Lora', serif;
+		text-align: center;
+		padding: 5px 150px 30px 150px;
+}
+.ideas h4 {
+	color: black;
+		font-size: 16pt;
+		font-family: 'Lora', serif;
+		font-weight: bold;
+		text-align: center;
+		padding: 5px 150px 30px 150px;
+	}
+.ideas p {
+	color: black;
+		font-size: 13pt;
+		font-family: 'Lora', serif;
+		text-align: center;
+		padding: 5px 150px 30px 150px;
+}
+img.center {
+ 		display: block;
+ 		margin-left: auto;
+ 		margin-right: auto;
+ 		height: 300px;
+ 		width: 300px;
+ 		border-radius: 150px;
+ 		box-shadow: 12px 12px 29px #555;
+ 	}
+
+ 	
