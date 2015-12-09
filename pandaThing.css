@@ -1,0 +1,82 @@
+.header {
+    margin: 0;
+    padding: 50;
+    overflow: hidden;
+    background-color: #DFD;
+    width: cover;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: cover;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #ddd;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+    color: #fff;
+}
+
+
+
+#social-buttons
+button{
+	color: white;}
+	
+.btn-twitter{
+	background-color: #00acee;
+	border-color: #009ad5}
+
+.btn-facebook{
+	background-color: #4868ac;
+	border-color: #314776 }
+
+.btn-pinterest{
+	background-color: #b62f26;
+	border-color: #b62f26 }
+
+
+.middlepicture{
+    font-family: 'Megrim', cursive;
+}
+
+
+#mission{
+	background-color: rgba(32,35,41,.0.9);
+	font color: #ddd;
+	padding-bottom: 40px;
+}
+
+.navbar-inverse {
+  background-color: rgba(32, 35, 41,0.8);
+  padding-top: 20px;
+}
+
+.form-inline input[name='email'] {
+	  width: 80%; }
+.container{
+    max-width: 700px;
+    : center;
+}
+.header{
+    font-family: 'Megrim', cursive;
+    text-align: center;
+    font-weight: 900;
+}
