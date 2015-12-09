@@ -1,63 +1,67 @@
-/* Custom Stylesheet */
-/**
- * Use this file to override Materialize files so you can update
- * the core Materialize files in the future
- *
- * Made By MaterializeCSS.com
- */
-
-nav ul a,
-nav .brand-logo {
-  color: #444;
+title {
+    display: none;
 }
 
-p {
-  line-height: 2rem;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
 
-.parallax-container {
-  min-height: 380px;
-  line-height: 0;
-  height: auto;
-  color: rgba(255,255,255,.9);
-}
-  .parallax-container .section {
-    width: 100%;
-  }
-    .parallax-container .middle-banner {
-    background:url("http://images.fineartamerica.com/images/artworkimages/medium/1/giant-panda-in-black-and-white-chris-smith.jpg") no-repeat center center fixed;
-    background-size: cover;
-    min-height: 380px;
-    height: 100%;
-    width: 100%;
-    }
-
-
-    .parallax-container .bottom-banner {
-    background:url("http://images5.alphacoders.com/390/390782.jpg") no-repeat center center fixed;
-    background-size: cover;
-    min-height: 380px;
-    height: 100%;
-    width: 100%;
-  }
-
-  #index-banner {
-    background: url("http://miriadna.com/desctopwalls/images/max/Pandas.jpg") no-repeat center center fixed;
-    background-size: cover;
-    min-height: 380px;
-    height: 100%;
-    width: 100%;
-    }
-
-
-.icon-block {
-  padding: 0 15px;
-}
-.icon-block .material-icons {
-  font-size: inherit;
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
 }
 
-footer.page-footer {
-  margin: 0;
+
+
+#social-buttons
+button{
+	color: white;}
+	
+.btn-twitter{
+	background-color: #00acee;
+	border-color: #009ad5}
+
+.btn-facebook{
+	background-color: #4868ac;
+	border-color: #314776 }
+
+.btn-pinterest{
+	background-color: #b62f26;
+	border-color: #b62f26 }
+
+
+.middlepicture{
+    font-family: 'Megrim', cursive;
 }
+
+
+#mission{
+	background-color: rgba(32,35,41,.0.9);
+	font color: #ddd;
+	padding-bottom: 40px;
+}
+
+.navbar-inverse {
+  background-color: rgba(32, 35, 41,0.8);
+  padding-top: 20px;
+}
+
+.form-inline input[name='email'] {
+	  width: 80%; }
